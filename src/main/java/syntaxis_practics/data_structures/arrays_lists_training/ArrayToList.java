@@ -1,4 +1,4 @@
-package arrays_lists_training;
+package syntaxis_practics.data_structures.arrays_lists_training;
 
 import java.util.*;
 import java.util.stream.Collectors;
