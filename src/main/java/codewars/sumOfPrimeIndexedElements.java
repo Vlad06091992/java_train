@@ -1,4 +1,4 @@
-package tasks;
+package codewars;
 //https://www.codewars.com/kata/59f38b033640ce9fc700015b
 public class sumOfPrimeIndexedElements {
     public static void main(String[] args) {
